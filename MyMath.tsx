@@ -1,4 +1,4 @@
-import React from 'react';
+iimport React from 'react';
 class MyMath extends React.Component<any, any>{
   constructor(props: any) {
     super(props);
